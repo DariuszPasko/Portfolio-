@@ -59,7 +59,20 @@
         float:left;
     }
     
+    .video{
+        display: none;
+       
+    }
+    
+    .vide{
+        height: 50vh;
 
+    }
+    .slogan{
+        padding: 20% 10% 0px 10%;
+        text-align: center;
+       
+    }
 
     .col-m-1 {width: 8.33%;}
     .col-m-2 {width: 16.66%;}
@@ -96,6 +109,11 @@
         float:left;
     }
    
+    .slogan{
+        padding: 40% 10% 0px 10%;
+        text-align: center;
+
+    }
 
     .col-s-1 {width: 8.33%;}
     .col-s-2 {width: 16.66%;}
