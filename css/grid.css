@@ -64,17 +64,17 @@
     }
     
     
-    
-    
-    
-    .slogan{
-        padding: 20% 10% 0px 10%;
+    .slogan {
         text-align: center;
-       }
+        margin: 20% 100px 0
+    }
     
+    
+    .click {display: none;}
     .layer {display: none;}
     .live{display: block;}
     .tlo{display: none;}
+    .pdf{display: none;}
     
 
     .col-m-1 {width: 8.33%;}
@@ -115,10 +115,11 @@
     h1{font-size: 40px;}
    
     .slogan{
-        padding: 40% 10% 0px 10%;
+        margin: 80% 10px 0;
         text-align: center;
-
     }
+    .section-2 .box{margin: 0 auto;}
+    
  
     .col-s-1 {width: 8.33%;}
     .col-s-2 {width: 16.66%;}
