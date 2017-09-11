@@ -40,8 +40,7 @@ header {
   line-height: 19px;
   top: 10px;
   right: 10px;
-  font-size: 60px;
-  color: red; }
+  font-size: 60px; }
 
 .pdf a {
   color: rgba(77, 182, 172, 0.5); }
@@ -121,9 +120,11 @@ h1 {
 .section-2 .box {
   padding: 0 10%; }
 
+.box {
+  text-align: center; }
+
 .box img {
   padding: 20px;
-  margin: 0 10px 15px 0;
   width: 100px;
   border-radius: 5%;
   transition: 1s;
